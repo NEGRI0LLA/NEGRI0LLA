@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://tenor.com/GFWjY4AHpz.gif" width="50%" alt="Pepe Dance" />
-</p>
-
 # Hello, world!
 
 ### Обо мне:
@@ -12,13 +8,13 @@
 * Самое лучшее мое качество это твёрдость и дисциплина
 
 ### Изучаю:
-* Luau
-* C#
-* Python
+* **Luau**
+* **C#**
+* **Python**
 
 ### Связь со мной:
 * Email - kiruhaevgrafendij@gmail.com
 * Telegram - https://t.me/NEGRI0LLA
 
 ---
-*Спасибо что зашли ко мне на страницу*
+*Спасибо, что зашли ко мне на страницу!*
