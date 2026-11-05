@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://tenor.com/GFWjY4AHpz.gif" width="50%" alt="Pepe Dance" />
+</p>
 
-<!--
-**NEGRI0LLA/NEGRI0LLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, world!
 
-Here are some ideas to get you started:
+### Обо мне:
+* Мне 16 лет
+* Учусь в 10-м классе по профилю инфо/мат
+* Становлюсь ближе к разработке с каждым днём
+* Планирую получать высшее образование
+* Самое лучшее мое качество это твёрдость и дисциплина
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Изучаю:
+* Luau
+* C#
+* Python
+
+### Связь со мной:
+* Email - kiruhaevgrafendij@gmail.com
+* Telegram - https://t.me/NEGRI0LLA
+
+---
+*Спасибо что зашли ко мне на страницу*
