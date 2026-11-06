@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image.jfif" width="25%" alt="School" />
+</p>
+
+
 # Hello, world!
 
 ### Обо мне:
